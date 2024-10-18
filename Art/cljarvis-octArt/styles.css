@@ -77,7 +77,7 @@ body{
 	animation-name: wind;
 	animation-duration: 4.5s;
 	animation-direction: normal;
-	animation-fi ll-mode: forwards;
+	animation-fill-mode: forwards;
 
 }
 
